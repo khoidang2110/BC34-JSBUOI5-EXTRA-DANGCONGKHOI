@@ -1,0 +1,21 @@
+.baitap{
+    margin: 0 ;
+    padding:100px 100px;
+}
+
+
+
+
+.flex-column{
+    width: 20%;
+s
+}
+.tab-content{
+width:80%;
+border:2px black solid;
+border-radius:5px;
+}
+.nav-pills .nav-link {
+box-shadow:3px 3px 3px 3px grey;
+margin: 10px 10px;
+}
